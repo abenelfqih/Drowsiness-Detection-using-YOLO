@@ -13,10 +13,10 @@ This project utilizes YOLO (You Only Look Once) for real-time drowsiness detecti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/drowsiness-detection.git
+   git clone https://github.com/abenelfqih/Drowsiness-Detection-using-YOLO.git
    ```
 
-2. Open the notebook `Drowsiness_Detection.ipynb` in Google Colab.
+2. Open the notebook `Drowsiness_Detection.ipynb` in Google Colab or jupyter.
 
 3. Run the notebook cells to start the webcam and perform drowsiness detection.
 
